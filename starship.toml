@@ -171,7 +171,7 @@ format = '[ $symbol ($version) ]($style)'
 
 # status
 [status]
-format = '[ $symbol ]($style)'
+format = '[$symbol ]($style)'
 style = "bold"
 symbol = '[➜](fg:nord4)'
 success_symbol = '[➜](fg:nord4)'
